@@ -1,3 +1,3 @@
-# mtbtour.github.io
+# MTBTour
 
-Highschool project website
+Basic HTML and CSS highschool project website
